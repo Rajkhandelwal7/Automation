@@ -6,9 +6,10 @@ imdb.js
 internshala.js
 mouse.js
 playlist.js
-PriceCompare.js
+PricesCompare.js
 puppet.js
 RedBus.js
 SongDownloader.js
 Lasync.js
-Promise.js
+promises.js
+Monster.js
